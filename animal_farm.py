@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import sys
+import leopard
 
 # a new change made with Vim
 

@@ -1,0 +1,4 @@
+import animals
+
+class Leopard():
+
