@@ -2,6 +2,8 @@
 
 import sys
 
+# a new change made with Vim
+
 def add_animal(farm, animal):
     farm.add(animal)
     return farm
