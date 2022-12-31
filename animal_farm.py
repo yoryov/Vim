@@ -4,6 +4,7 @@ import sys
 import leopard
 # another commit...
 # a new change made with Vim
+# another file
 
 def add_animal(farm, animal):
     farm.add(animal)
