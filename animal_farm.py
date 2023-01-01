@@ -6,7 +6,7 @@ import leopard
 # a new change made with Vim
 # another file
 
-def add_animal(farm, animal):
+def build_animal(farm, animal):
     farm.add(animal)
     return farm
 
