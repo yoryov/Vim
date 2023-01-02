@@ -1,6 +1,5 @@
-let g:animal='cat' # variable definition, 'g:' means global scope
-let w:cat=1 # current window scope
-
-echo 'Animal:'
-echo g:animal
-echo 'Animal printed'
+if has('win32')
+	echo 'windows :/'
+else
+	echo 'most probably a GNU/Linux OS :D'
+endif
